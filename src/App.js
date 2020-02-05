@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React --- And phone home again and maybe not again twice and 3rd.
+          Learn React --- Changed on the feature branch.
         </a>
       </header>
     </div>
