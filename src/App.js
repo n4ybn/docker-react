@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React --- And phone home again and maybe not again twice!
+          Learn React --- And phone home again and maybe not again twice and 3rd.
         </a>
       </header>
     </div>
