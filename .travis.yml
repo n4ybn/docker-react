@@ -5,7 +5,8 @@ services:
 before_install:
     - docker build -t n4ybn/docker-react -f Dockerfile.dev .
 
-script:
+deploy:
+    edge: true
     provider: elasticbeanstalk
     region: "us-east-1"
     app: "docker-react"
